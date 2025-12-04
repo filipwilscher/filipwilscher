@@ -5,6 +5,3 @@ I'm a Master's student in Electrical Engineering at Lund University, specializin
 - 🔭 I’m currently working as an Engineering Student at **CellaVision**.
 - 🎓 Specializing in **Embedded Systems, Signal Processing & Business Strategy**.
 - 🛠️ **Tech Stack:** Python, Java, MATLAB, Svelte, Node.js, Git.
-
----
-Connect with me on [LinkedIn](https://linkedin.com/in/filipwilscher)
