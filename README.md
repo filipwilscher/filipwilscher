@@ -1,3 +1,3 @@
 ### Hi there, I'm Filip! 👋
 
-Master student in Electrical Engineering at Lund University. 
+4th year M.Sc. Electrical Engineering @LTH & 1th year B.Sc. Business @LUSEM
